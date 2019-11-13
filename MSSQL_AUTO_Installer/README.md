@@ -1,0 +1,1 @@
+## Auto Installer for MSSQL Server for Debian 9
