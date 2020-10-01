@@ -14,7 +14,7 @@ Therefore, I wrote this small but useful script that will help us in a matter of
 $ mkdir /var/lib/gpt-lab/
 $ cd /var/lib/gpt-lab/
 $ git clone https://github.com/graypit/Bash-Codes.git
-$ chmod +x ./Docker-Network-Extractor/dockernet.sh
+$ chmod +x ./Bash-Codes/Docker-Network-Extractor/dockernet.sh
 ```
 ### Create alias for it:
 - If you're using zsh then:
