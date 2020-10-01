@@ -13,17 +13,17 @@ Therefore, I wrote this small but useful script that will help us in a matter of
 ```bash
 $ mkdir /var/lib/gpt-lab/
 $ cd /var/lib/gpt-lab/
-$ git clone https://github.com/graypit/bash-codes.git
+$ git clone https://github.com/graypit/Bash-Codes.git
 $ chmod +x ./Docker-Network-Extractor/dockernet.sh
 ```
 ### Create alias for it:
 - If you're using zsh then:
 ```bash
-$ echo "alias dockernet="/var/lib/gpt-lab/Docker-Network-Extractor/dockernet.sh"" >> ~/.zshrc && source ~/.zshrc
+$ echo "alias dockernet="/var/lib/gpt-lab/Bash-Codes/Docker-Network-Extractor/dockernet.sh"" >> ~/.zshrc && source ~/.zshrc
 ```
 - If you're using bash then:
 ```bash
-$ echo "alias dockernet="/var/lib/gpt-lab/Docker-Network-Extractor/dockernet.sh"" >> ~/.bashrc && source ~/.bashrc
+$ echo "alias dockernet="/var/lib/gpt-lab/Bash-Codes/Docker-Network-Extractor/dockernet.sh"" >> ~/.bashrc && source ~/.bashrc
 ```
 ### Examples:
 ```bash
